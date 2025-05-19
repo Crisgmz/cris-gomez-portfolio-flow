@@ -68,6 +68,7 @@ export default {
 					light: '#A8B2D1',
 					lighter: '#CCD6F6',
 				},
+				white: '#FFFFFF',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
