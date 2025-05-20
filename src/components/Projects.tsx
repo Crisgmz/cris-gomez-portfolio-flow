@@ -12,7 +12,7 @@ const Projects = () => {
     {
       title: "Shop+",
       description: "CRM para gestión de ventas e inventario con funcionalidades de reportes, facturación y análisis de datos.",
-      technologies: ["Flutter", "Firebase", "Cloud Functions"],
+      technologies: ["PHP", "MySQL", "Apache"],
       link: "#",
       status: "Completado",
       role: "Desarrollador principal"
