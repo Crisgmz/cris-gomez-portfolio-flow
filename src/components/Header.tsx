@@ -74,7 +74,7 @@ const Header = () => {
             </button>
           ))}
           <a
-            href="/resume.pdf"
+            href="https://drive.google.com/file/d/1jghSq80oZ2ILyR3yQiIjeGaKUORnVzwI/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="text-teal border border-teal rounded-md px-4 py-2 hover:bg-teal/10 transition-colors duration-300"
@@ -107,7 +107,7 @@ const Header = () => {
                 </button>
               ))}
               <a
-                href="/resume.pdf"
+                href="https://drive.google.com/file/d/1jghSq80oZ2ILyR3yQiIjeGaKUORnVzwI/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-teal border border-teal rounded-md px-5 py-2 hover:bg-teal/10 transition-colors duration-300 mt-4"
