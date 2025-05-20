@@ -21,7 +21,7 @@ const Projects = () => {
       title: "Plataforma IoT de Monitoreo Meteorológico",
       description: "Sistema de monitoreo en tiempo real de variables meteorológicas utilizando sensores IoT y visualización de datos.",
       technologies: ["ESP32", "MQTT", "Flutter", "Firebase"],
-      link: "#",
+      link: "https://github.com/Crisgmz/grupo-4",
       status: "En desarrollo",
       role: "Desarrollador Full-stack"
     },
