@@ -13,7 +13,7 @@ const Projects = () => {
       title: "Shop+",
       description: "CRM para gestión de ventas e inventario con funcionalidades de reportes, facturación y análisis de datos.",
       technologies: ["PHP", "MySQL", "Apache"],
-      link: "#",
+      link: "https://github.com/Crisgmz/Shop-plus",
       status: "Completado",
       role: "Desarrollador principal"
     },
@@ -22,7 +22,7 @@ const Projects = () => {
       description: "Sistema de monitoreo en tiempo real de variables meteorológicas utilizando sensores IoT y visualización de datos.",
       technologies: ["ESP32", "MQTT", "Flutter", "Firebase"],
       link: "https://github.com/Crisgmz/grupo-4",
-      status: "En desarrollo",
+      status: "Completado",
       role: "Desarrollador Full-stack"
     },
     {
