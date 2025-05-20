@@ -29,7 +29,7 @@ const Projects = () => {
       title: "Sistema de Renta de Vehículos",
       description: "Aplicación para gestión de reservas, inventario y facturación para empresas de renta de vehículos.",
       technologies: ["Flutter", "FastAPI", "MySQL"],
-      link: "#",
+      link: "https://github.com/Crisgmz/SRC",
       status: "Completado",
       role: "Desarrollador backend y móvil"
     },
