@@ -26,7 +26,7 @@ const About = () => {
             <div className="absolute -inset-1 bg-teal rounded-full opacity-25 group-hover:opacity-50 blur transition duration-500"></div>
             <div className="relative max-w-[250px] aspect-square rounded-full overflow-hidden">
               <img
-                src="https://via.placeholder.com/400x400"
+                src="/lovable-uploads/9290d26d-e12f-4045-8aa1-3ea15374a590.png"
                 alt="Cristian Gómez"
                 className="object-cover w-full h-full"
               />
